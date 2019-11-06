@@ -1,2 +1,2 @@
 # _C4T_
-blabla...
+mind.X_class
