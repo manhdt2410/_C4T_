@@ -1,0 +1,5 @@
+num_lists = input("Enter a list of numbers, separated by ‘ ‘: ")
+numbers = num_lists.split(' ')
+print(num_lists)
+Sum = sum(int(i) for i in numbers)
+print("sum is", Sum)
