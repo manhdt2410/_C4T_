@@ -1,0 +1,33 @@
+.custom1 {
+    border-radius: 100%;
+    padding: 170px 170px;
+    font-size: 480%;
+    border: 5px solid red;
+    background-color: white;
+    color: red;
+    transition-duration: 0.25s;
+    font-family: 'Audiowide', cursive;
+}
+.custom1:hover {
+    background-color: red;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    font-family: 'Audiowide', cursive;
+}
+.custom2 {
+    border-radius: 100%;
+    padding: 170px 170px;
+    font-size: 480%;
+   
+    background-color: red;
+    color:white;
+    transition-duration: 0.25s;
+    font-family: 'Audiowide', cursive;
+}
+.custom2:hover {
+    border: 5px solid red;
+    background-color: white;
+    color: red;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    font-family: 'Audiowide', cursive;
+}
